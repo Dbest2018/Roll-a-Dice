@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button_text">Roll</string>
+    <string name="left_dice_text">Left Dice</string>
+    <string name="right_dice_text">Right Dice</string>
+    <string name="las_vegas_logo_text">Las Vegas Logo</string>
+</resources>
